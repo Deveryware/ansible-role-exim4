@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Olivier Locard
+  description: Exim4 Installation and Configuration
+  company: "Deveryware"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: Debian
+      versions:
+      - all
+    - name: Ubuntu
+      versions:
+      - all
+  galaxy_tags:
+    - exim4
+    - mail
